@@ -644,7 +644,7 @@ extensions = [
               Flask-Ask makes it easy to write Amazon Echo apps with Flask and
               the Alexa Skills Kit.
         ''',
-        docs='http://flask-ask.readthedocs.io/en/latest/',
+        docs='https://johnwheeler.org/flask-ask/',
         github='johnwheeler/flask-ask'
     ),
 ]
